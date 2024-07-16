@@ -1,0 +1,15 @@
+app:
+  name: 'task-manager'
+  version: '1.0.0'
+
+http:
+  port: '8080'
+
+redis:
+  addr: 'localhost:6379'
+  password: ''
+  db: 0
+
+db:
+  driver_name: "postgres"
+  url: 'postgres://:@localhost:5432/core_test?sslmode=disable'
