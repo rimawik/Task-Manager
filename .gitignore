@@ -1,0 +1,5 @@
+# golang output binary directory
+bin
+
+# swagger docs generated 
+docs
