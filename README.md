@@ -53,5 +53,5 @@ make build
 make swagger
 ```
 
-4. **Access The API Documentation**:
+5. **Access The API Documentation**:
 Open your browser and go to http://localhost:8080/swagger/index.html
